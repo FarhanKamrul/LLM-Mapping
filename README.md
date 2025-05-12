@@ -8,3 +8,4 @@ Furthermore, it also contains stata code for the data analysis process.
 The data is not made public, contact farhan.kamrul@nyu.edu for the datasets.
 
 
+Note: The codefiles need some rerouting to the correct dataset paths. 
